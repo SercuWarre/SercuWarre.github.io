@@ -434,7 +434,7 @@ box-shadow: 0 0 0 3px var(--global-input-focus-borderColor);
         height: 3rem;
      top: 70%;
         left: 50%;
-     background-color: red;
+     background-color: darkblue;
      position: absolute;
  }
 #circle {

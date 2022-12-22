@@ -77,6 +77,7 @@ circle.style.top = '50%';}
 
 
   var age = data['date_of_birth'];
+  ;
   document.querySelector('.js-age').innerHTML ="date_of_birth: "+ age;
   var height = data['height'];
   document.querySelector('.js-height').innerHTML ="height: " +height+"cm";
